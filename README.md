@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**Roland-Mehes/Roland-Mehes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **frontend developer in training** with a passion for creating dynamic and user-friendly web applications using **React** and modern web technologies.  
 
-Here are some ideas to get you started:
+### 🌟 What I do:
+- Build responsive and interactive web applications  
+- Explore new tools and frameworks in frontend development  
+- Continuously learn and improve  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+- **Frontend**: React, JavaScript, HTML5, CSS3
+- **Tools**: Git, VS Code  
+
+### 📌 Featured Projects:
+-
+-
+
+### 📫 Get in touch:
+Feel free to reach out via [LinkedIn](www.linkedin.com/in/roland-mehes-1aa71a2b5) or check out my projects below!  
+
+Thanks for visiting! 😊 
