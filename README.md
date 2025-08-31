@@ -1,6 +1,7 @@
 # Hi, I'm Roland! 👋  
 
-A Junior Frontend Developer passionate about building interactive, user-friendly, and visually appealing web applications. Currently diving deep into React and the latest web technologies to create efficient and dynamic user interfaces. Also exploring fullstack development, expanding my knowledge of backend technologies to become a well-rounded developer.
+🚀 Junior Fullstack Developer (Frontend-focused)
+Passionate about building interactive, user-friendly, and visually appealing web applications. Specializing in React and Next.js for modern, efficient frontend development, while also exploring backend technologies to become a well-rounded developer.
 
 ### 🌟 What I do:
 - Build responsive and interactive web applications  
