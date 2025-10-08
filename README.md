@@ -16,7 +16,7 @@ Passionate about building interactive, user-friendly, and visually appealing web
 
 - **Airbnb Clone** – Realistic Airbnb Web App  
   Developed with **React, Next.js, TailwindCSS, and Firebase**. Includes property listings, search functionality, and interactive booking simulations. Focused on building a **responsive, modern UI** similar to the real platform.  
-  [💻 GitHub Repo](https://github.com/Roland-Mehes/airbnb-clone)
+  [🌐 Live](https://rentrise.vercel.app/) | [💻 GitHub Repo](https://github.com/Roland-Mehes/airbnb-clone)
 
 - **RM-GAMES** – Web-based Logic Games  
   RM Games is a web application built with React that offers a collection of logic games. The project utilizes Firebase for data management and user authentication. The platform supports three languages (e.g., English, Hungarian, Romanian), providing accessibility to a wide range of users. Players can enjoy various logic games designed to enhance problem-solving skills and logical thinking.  
