@@ -14,6 +14,12 @@ Passionate about building interactive, user-friendly, and visually appealing web
   Showcases projects and skills using **React, Next.js, TailwindCSS, and Framer Motion** for smooth animations and responsive design.  
   [🌐 Live](https://roland-mehes.vercel.app/) | [💻 GitHub Repo](https://github.com/Roland-Mehes/portfolio)
 
+- **Weather App** - Real-Time Weather Application   
+    Developed a real-time weather application using Next.js.
+    Integrated OpenWeatherMap API for live weather data and forecasts.
+    Implemented global state management using Zustand   
+  [🌐 Live](weatherapp-kappa-ochre.vercel.app/) | [💻 GitHub Repo](https://github.com/Roland-Mehes/weatherapp)
+
 - **Airbnb Clone** – Realistic Airbnb Web App  
   Developed with **React, Next.js, TailwindCSS, and Firebase**. Includes property listings, search functionality, and interactive booking simulations. Focused on building a **responsive, modern UI** similar to the real platform.  
   [🌐 Live](https://rentrise.vercel.app/) | [💻 GitHub Repo](https://github.com/Roland-Mehes/airbnb-clone)
